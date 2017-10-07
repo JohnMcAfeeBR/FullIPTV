@@ -10,7 +10,7 @@ Installation:
 
 1. Login als root
 
-2. wget http://maxdata755.online/public/fulliptv2/full-iptv2.0inst.sh
+2. wget https://github.com/JohnMcAfeeBR/FullIPTV/raw/master/full-iptv2.0inst.sh
 
 3. chmod 777 full-iptv2.0inst.sh
 
